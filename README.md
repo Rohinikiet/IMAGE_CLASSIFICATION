@@ -1,1 +1,2 @@
 # IMAGE_CLASSIFICATION
+This project aims to classify fruit images into predefined categories using machine learning techniques. The goal is to create an efficient classification model that can accurately identify different types of fruits based on image data. The methodology involves collecting a dataset of fruit images, preprocessing them, training a machine learning model (e.g., CNN), and evaluating its performance. The project highlights the use of deep learning to solve real-world image classification problems and concludes with suggestions for further improvements.
